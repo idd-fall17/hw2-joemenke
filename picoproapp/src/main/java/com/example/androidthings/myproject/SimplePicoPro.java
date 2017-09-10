@@ -41,7 +41,7 @@ public abstract class SimplePicoPro extends SimpleBoard {
     static int A1 = 1;
     static int A2 = 2;
     static int A3 = 3;
-    private Activity activity;
+    public Activity activity;
 
     public SimplePicoPro() {
         try {
